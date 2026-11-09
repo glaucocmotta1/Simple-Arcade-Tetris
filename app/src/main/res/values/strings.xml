@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Tetris Arcade</string>
+    <string name="play">JOGAR</string>
+    <string name="pause">PAUSA</string>
+    <string name="resume">CONTINUAR</string>
+    <string name="restart">REINICIAR</string>
+    <string name="quit">SAIR</string>
+    <string name="game_over">GAME OVER</string>
+    <string name="score">PONTUAÇÃO</string>
+    <string name="high_score">RECORDE</string>
+    <string name="level">NÍVEL</string>
+    <string name="lines">LINHAS</string>
+    <string name="next">PRÓXIMA</string>
+    <string name="hold">HOLD</string>
+    <string name="ranking_title">HALL DA FAMA</string>
+    <string name="ranking_subtitle">RECORDES DO FLIPERAMA</string>
+    <string name="enter_initials">NOVO RECORDE! DIGITE SUAS INICIAIS</string>
+    <string name="save_score">SALVAR PONTUAÇÃO</string>
+    <string name="controls_rotate">GIRAR</string>
+    <string name="controls_drop">QUEDA RÁPIDA</string>
+    <string name="controls_hard_drop">QUEDA INSTANTÂNEA</string>
+    <string name="sound_effects">EFEITOS SONOROS</string>
+    <string name="vibration">VIBRAÇÃO</string>
+    <string name="ghost_piece">PEÇA FANTASMA</string>
+    <string name="arcade_rank">RANK</string>
+    <string name="arcade_name">NOME</string>
+    <string name="arcade_pts">PONTOS</string>
+    <string name="arcade_lvl">NV</string>
+</resources>

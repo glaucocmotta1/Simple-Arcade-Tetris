@@ -1,0 +1,6 @@
+{
+  "name": "Tetris Arcade",
+  "description": "Jogo clássico de Tetris estilo fliperama, sem anúncios e com ranking de recordes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
